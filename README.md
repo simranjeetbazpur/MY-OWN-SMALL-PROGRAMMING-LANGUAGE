@@ -14,3 +14,10 @@ Ex: FOR I=0 TO 5 NEXT print a
 FUN function_name()->FOR i=0 TO 5 NEXT print a
 
 #Arithmetic operations can be done on variables. EX: A=10, B=20 then A=A+B will result into A=30.
+
+
+STEPS TO EXECUTE:
+1. Install Python 3.6 and sly library.
+2. Using anaconda prompt: Command pip -install sly can be used to install sly library.
+3. Run tiny.py to execute the program(executed on Spyder).
+4. For checking lexer and parsing phase result file “lexing.py” and “parsing.py” can be executed.
