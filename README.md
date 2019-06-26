@@ -1,2 +1,2 @@
 
-OPEN projectx.pdf to build your own programming language.
+Open projectx.pdf to build your own programming language.
