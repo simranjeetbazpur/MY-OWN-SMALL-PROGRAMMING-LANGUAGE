@@ -1,6 +1,8 @@
 
 # My own programming language
-Tiny programming language is a programming language created by us using sly library in Python
+
+<img src="https://repl.it/@simranjeetsing5/ownprogramminglanguage"/>
+Tiny programming language is a programming language created by me using sly library in Python
 3.6. SLY provides two separate classes Lexer and Parser. The Lexer class is used to break input
 text into a collection of tokens specified by a collection of regular expression rules. The Parser
 class is used to recognize language syntax that has been specified in the form of a context free
